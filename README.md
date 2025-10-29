@@ -2,8 +2,6 @@
 
 A simple and elegant **Book Finder Web App** that lets you search for books by title, author, or keyword — powered by the [Google Books API](https://developers.google.com/books/).
 
-![Book Finder Screenshot](https://via.placeholder.com/800x400?text=Book+Finder+Preview)
-
 ##Features
 
  #Search books by title, author, or topic  
