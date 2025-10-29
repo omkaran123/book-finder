@@ -16,6 +16,7 @@ A simple and elegant **Book Finder Web App** that lets you search for books by t
 
 The app sends a query to the **Google Books API** using JavaScript’s `fetch()` method and displays the results dynamically on the page.
 flowchart TD
+
 A[User enters keyword] --> B[JavaScript fetches from Google Books API]
 B --> C[API returns JSON with book details]
 C --> D[JavaScript creates book cards dynamically]
